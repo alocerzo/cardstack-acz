@@ -806,6 +806,4 @@ export default function App(){
     </div>
   );
 
-  // NAVTABS needed in scope
-  var NAVTABS=[{id:"tarjetas",icon:"ti-credit-card",label:"Tarjetas"},{id:"resumen",icon:"ti-layout-dashboard",label:"Resumen"},{id:"metas",icon:"ti-target",label:"Metas"},{id:"gastos",icon:"ti-wallet",label:"Gastos"},{id:"config",icon:"ti-settings",label:"Config"}];
 }
